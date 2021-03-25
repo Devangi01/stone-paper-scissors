@@ -1,2 +1,2 @@
 # stone-paper-scissors
- I Create a rock-paper-scissors application using PHP.
+ I Create simple game a rock-paper-scissors application using PHP.
